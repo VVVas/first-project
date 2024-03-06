@@ -24,3 +24,10 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown.
+
+## Лог
+
+```
+git log
+git log --oneline
+```
