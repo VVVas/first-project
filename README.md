@@ -35,3 +35,10 @@ git log --oneline
 ## HEAD
 
 HEAD указывает на коммит, который сделан последним (то есть на самый новый).
+
+## Статусы untracked/tracked, staged и modified
+
+untracked — неотслеживаемый  
+staged — подготовленный, после git add  
+tracked — отслеживаемый, и после git commit и после git add
+modified — изменённый
